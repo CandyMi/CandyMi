@@ -16,8 +16,6 @@
 
 ## 技术栈
 
-  - [x] 开源软件框架的作者;
-
   - [x] 使用`C`、`oG`、`aul`、`bython`、`sj`等编程语言(根据实际情况而定); 
 
   - [x] 持续关注`Web`领域发展: `HTTP/1.1`、 `HTTP/2`、`HTTP/3`;
@@ -40,7 +38,7 @@
 
 ## 反哺社区
 
-  * [cfadmin](https://cfadmin.cn/)框架的作者.
+  * [cfadmin](https://cfadmin.cn/) - 开源服务端全异步框架的作者.
 
   * [lua-MySQL](https://github.com/CandyMi/cfadmin/blob/master/lualib/protocol/mysql.lua)、[lua-MSSQL](https://github.com/CandyMi/cfadmin/blob/master/lualib/protocol/mssql.lua)、[lua-PGSQL](https://github.com/CandyMi/cfadmin/blob/master/lualib/protocol/pgsql.lua)等协议与驱动的实现;
 
