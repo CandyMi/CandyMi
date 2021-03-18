@@ -10,9 +10,9 @@
 
   专业: 计算机科学与技术 (Computer Science and Technology)
 
-  喜好：吃甜甜甜甜......甜食, 喜欢用代码证明自己与调戏他人.
+  喜好：吃甜甜甜甜......甜食, 喜欢用代码证明自己与调戏他人
 
-  口头禅: `Talk is cheap, Show me your code.`
+  口头禅: Talk is cheap, Show me your code.
 
 ## 技术栈
 
@@ -22,21 +22,21 @@
 
   - [x] 持续关注`Web`领域发展: `HTTP/1.1`、 `HTTP/2`、`HTTP/3`;
 
-  - [x] 持续关注数据库: `MySQL`、`MongoDB`、`Doris`、`TiDB`等等;
+  - [x] 持续关注数据库: `MySQL`、`MongoDB`、`Doris`、`TiDB`等;
 
-  - [x] 持续关注云原生领域技术: `Serverless`、`AutoScalable`、`Container`、`Schedule`、`Mesh`、`Gateway`等等;
+  - [x] 持续关注云原生领域技术: `Serverless`、`AutoScalable`、`Container`、`Schedule`、`Mesh`、`Gateway`等;
   
 ## 从业经历
 
-  - [x] 2年网络工程师;
+  - [x] 2年网络工程师
 
-  - [x] 2年运维工程师;
+  - [x] 2年运维工程师
 
-  - [x] 2年运维主管;
+  - [x] 2年运维主管
 
-  - [x] 2年研发工程师;
+  - [x] 2年研发工程师
 
-  - [x] 目前为止是：研发经理;
+  - [x] 目前：研发经理
 
 ## 反哺社区
 
