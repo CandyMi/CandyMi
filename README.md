@@ -30,7 +30,7 @@
 
   * [lua-Websocket](https://github.com/CandyMi/cfadmin/blob/master/lualib/protocol/websocket/protocol.lua)基于[RFC-6455](https://datatracker.ietf.org/doc/rfc6455/?include_text=1)与[RFC-7692](https://datatracker.ietf.org/doc/rfc7692/?include_text=1)的完整实现, 可做为服务端基础TCP服务组件;
 
-  * [lua-iconv](https://github.com/CandyMi/lua-iconv)开源用更简单的方式帮助开发者进行编码之间转换;
+  * [lua-iconv](https://github.com/CandyMi/lua-iconv)用更简单的方式帮助开发者在不同编码之间转换;
 
   * [lua-qr](https://github.com/CandyMi/lua-qr)通过`Lua`直接生成`png`/`jpg`/`bmp`格式的二维码并不依赖其它库;
 
