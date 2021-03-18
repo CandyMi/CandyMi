@@ -4,7 +4,7 @@
 
   学校：[UESTC](https://www.uestc.edu.cn/) - (Computer Science and Technology) 🏫
 
-## 从业履历
+## 从业经验
 
   |&#x1F554;2012-2014|&#x1F554;2014-2016 |&#x1F554;2016-2017|&#x1F554;2017-2019|&#x1F554;2019-至今|
   | :-------------: |:-------------:|:-------------: | :-------------:|:-------------:|
@@ -24,15 +24,15 @@
 
 ## 社区回馈
 
-  * [cfadmin](https://cfadmin.cn/) - 开源服务器异步框架的作者.
+  * 开源高并发服务端异步框架[cfadmin](https://cfadmin.cn/)的作者, 已通过作者的生产环境验证并且项目处于盈利阶段.
 
   * [lua-MySQL](https://github.com/CandyMi/cfadmin/blob/master/lualib/protocol/mysql.lua)、[lua-MSSQL](https://github.com/CandyMi/cfadmin/blob/master/lualib/protocol/mssql.lua)、[lua-PGSQL](https://github.com/CandyMi/cfadmin/blob/master/lualib/protocol/pgsql.lua)等协议与驱动的实现;
 
-  * [lua-Websocket](https://github.com/CandyMi/cfadmin/blob/master/lualib/protocol/websocket/protocol.lua)基于[RFC-6455](https://datatracker.ietf.org/doc/rfc6455/?include_text=1)与[RFC-7692](https://datatracker.ietf.org/doc/rfc7692/?include_text=1)的完整实现;
+  * [lua-Websocket](https://github.com/CandyMi/cfadmin/blob/master/lualib/protocol/websocket/protocol.lua)基于[RFC-6455](https://datatracker.ietf.org/doc/rfc6455/?include_text=1)与[RFC-7692](https://datatracker.ietf.org/doc/rfc7692/?include_text=1)的完整实现, 可做为服务端基础TCP服务组件;
 
-  * [lua-iconv](https://github.com/CandyMi/lua-iconv)更简单的在不同编码之间转换;
+  * [lua-iconv](https://github.com/CandyMi/lua-iconv)开源用更简单的方式帮助开发者进行编码之间转换;
 
-  * [lua-qr](https://github.com/CandyMi/lua-qr)可以用`Lua`生成`png`/`jpg`二维码图片;
+  * [lua-qr](https://github.com/CandyMi/lua-qr)通过`Lua`直接生成`png`/`jpg`/`bmp`格式的二维码并不依赖其它库;
 
   * [lua-mongo](https://github.com/CandyMi/mongo)实现了`MongoDB`的驱动协议与`BSON`编码与解码;
 
