@@ -16,9 +16,9 @@
 
   - [x] 内核与操作系统关注领域: `Mac OSX`、`Linux`、 `FreeBSD`;
 
-  - [x] 持续关注`Web`领域发展: `HTTP/1.1`、 `HTTP/2`、`HTTP/3`;
-
   - [x] 持续关注数据库领域发展: `MySQL`、`MongoDB`、`Doris`、`TiDB`等;
+
+  - [x] 持续关注`Web`领域发展: `HTTP/1.1`、 `HTTP/2`、`HTTP/3`、 `HTTPS/1.3`;
 
   - [x] 持续关注云原生领域发展: `Serverless`、`AutoScalable`、`Container`、`Schedule`、`Mesh`、`Gateway`等;
 
@@ -36,9 +36,9 @@
 
   * [lua-mongo](https://github.com/CandyMi/mongo)实现了`MongoDB`的驱动协议与`BSON`编码与解码;
 
-  * [lua-aoi](https://github.com/CandyMi/aoi-c)使用`C`语言编写的十字链表`AOI`(Area Of Interest)算法实现与`Lua API`导出;
+  * [lua-aoi](https://github.com/CandyMi/aoi-c)使用`C`语言编写十字链表`Aoi`(Area Of Interest)实现与并提供`Lua API`导出;
 
-  * [skynet-crypt](https://github.com/CandyMi/skynet-lua-crypt)对`skynet`框架的`crypt`实现扩展;
+  * [skynet-crypt](https://github.com/CandyMi/skynet-lua-crypt)对`skynet`框架的`crypt`扩展算法实现;
 
   * [skynet-websocket](https://github.com/CandyMi/skynet-lua-websocket)对`skynet`框架的`websocket`协议第3方实现;
 
