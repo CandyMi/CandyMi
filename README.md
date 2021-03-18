@@ -32,9 +32,9 @@
 
   - [x] 2年运维工程师
 
-  - [x] 2年运维主管
+  - [x] 1年运维主管
 
-  - [x] 2年研发工程师
+  - [x] 3年研发工程师
 
   - [x] 目前：研发经理
 
@@ -44,7 +44,7 @@
 
   * [lua-MySQL](https://github.com/CandyMi/cfadmin/blob/master/lualib/protocol/mysql.lua)、[lua-MSSQL](https://github.com/CandyMi/cfadmin/blob/master/lualib/protocol/mssql.lua)、[lua-PGSQL](https://github.com/CandyMi/cfadmin/blob/master/lualib/protocol/pgsql.lua)等协议与驱动的实现;
 
-  * [lua-Websocket](https://github.com/CandyMi/cfadmin/blob/master/lualib/protocol/websocket/protocol.lua)根据[RFC-6455](https://datatracker.ietf.org/doc/rfc6455/?include_text=1),与[RFC-7692](https://datatracker.ietf.org/doc/rfc7692/?include_text=1)实现;
+  * [lua-Websocket](https://github.com/CandyMi/cfadmin/blob/master/lualib/protocol/websocket/protocol.lua)基于[RFC-6455](https://datatracker.ietf.org/doc/rfc6455/?include_text=1)与[RFC-7692](https://datatracker.ietf.org/doc/rfc7692/?include_text=1)的完整实现;
 
   * [lua-iconv](https://github.com/CandyMi/lua-iconv)更简单的在不同编码之间转换;
 
