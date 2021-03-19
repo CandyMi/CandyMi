@@ -32,6 +32,8 @@
 
   * [lua-iconv](https://github.com/CandyMi/lua-iconv)用更简单的方式帮助开发者在不同编码之间转换;
 
+  * [lua-br](https://github.com/CandyMi/lua-br)无缝扩展`httpd`的压缩方式, 可有效降低10%-15%带宽;
+
   * [lua-qr](https://github.com/CandyMi/lua-qr)通过`Lua`直接生成`png`/`jpg`/`bmp`格式的二维码并不依赖其它库;
 
   * [lua-mongo](https://github.com/CandyMi/mongo)实现了`MongoDB`的驱动协议与`BSON`编码与解码;
