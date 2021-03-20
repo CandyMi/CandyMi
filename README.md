@@ -24,7 +24,7 @@
 
 ## 社区回馈
 
-  * 开源高并发服务端异步框架[cfadmin](https://cfadmin.cn/)的作者, 作者基于此框架的研发的项目已经盈利并在生产环境稳定运行至少1年;
+  * 开源高并发服务端异步框架[cfadmin](https://cfadmin.cn/)的作者, 作者基于此框架的研发的公司项目已经盈利并在生产环境稳定运行1年以上;
 
   * [lua-MySQL](https://github.com/CandyMi/cfadmin/blob/master/lualib/protocol/mysql.lua)、[lua-MSSQL](https://github.com/CandyMi/cfadmin/blob/master/lualib/protocol/mssql.lua)、[lua-PGSQL](https://github.com/CandyMi/cfadmin/blob/master/lualib/protocol/pgsql.lua)等协议与驱动的实现;
 
