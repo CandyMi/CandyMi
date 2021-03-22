@@ -24,9 +24,9 @@
 
 ## 社区回馈
 
-  * 开源高并发服务端异步框架[cfadmin](https://cfadmin.cn/)的作者, 作者基于此框架的研发的公司项目已经盈利并在生产环境稳定运行1年以上;
+  * 开源高性能网络服务端框架[cfadmin](https://cfadmin.cn/)的作者, 作者本人基于此框架研发的公司项目已盈利并在生产环境稳定运行1年以上;
 
-  * [lua-MySQL](https://github.com/CandyMi/cfadmin/blob/master/lualib/protocol/mysql.lua)、[lua-MSSQL](https://github.com/CandyMi/cfadmin/blob/master/lualib/protocol/mssql.lua)、[lua-PGSQL](https://github.com/CandyMi/cfadmin/blob/master/lualib/protocol/pgsql.lua)等协议与驱动的实现;
+  * [lua-MySQL](https://github.com/CandyMi/cfadmin/blob/master/lualib/protocol/mysql.lua)、[lua-MSSQL](https://github.com/CandyMi/cfadmin/blob/master/lualib/protocol/mssql.lua)、[lua-PGSQL](https://github.com/CandyMi/cfadmin/blob/master/lualib/protocol/pgsql.lua)等数据库驱动协议的实现;
 
   * [lua-Websocket](https://github.com/CandyMi/cfadmin/blob/master/lualib/protocol/websocket/protocol.lua)基于[RFC-6455](https://datatracker.ietf.org/doc/rfc6455/?include_text=1)与[RFC-7692](https://datatracker.ietf.org/doc/rfc7692/?include_text=1)的完整实现, 可做为服务端基础TCP服务组件;
 
