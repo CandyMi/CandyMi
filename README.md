@@ -32,6 +32,8 @@
 
   * [lua-iconv](https://github.com/CandyMi/lua-iconv)用更简单的方式帮助开发者在不同编码之间转换;
 
+  * [lua-xml](https://github.com/CandyMi/lua-xml)基于`libxml2`实现的`xml`编码/解码API导出到`lua`, 性能高出其它`pure lua`实现几十倍;
+
   * [lua-br](https://github.com/CandyMi/lua-br)无缝扩展`httpd`的压缩方式, 同等配置下比`gzip`与`deflate`更节省`10%` -`15%`带宽;
 
   * [lua-qr](https://github.com/CandyMi/lua-qr)通过`Lua`直接生成`png`/`jpg`/`bmp`格式的二维码并不依赖其它库;
