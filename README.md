@@ -18,7 +18,7 @@
 
   - [x] 持续关注数据库领域发展: `MySQL`、`MongoDB`、`Doris`、`TiDB`等;
 
-  - [x] 持续关注`Web`领域发展: `HTTP/1.1`、 `HTTP/2`、`HTTP/3`、 `HTTPS/1.3`;
+  - [x] 持续关注`Web`领域发展: `HTTP/1.1`、 `HTTP/2`、`HTTP/3`、 `TLS/1.3`;
 
   - [x] 持续关注云原生领域发展: `Serverless`、`AutoScalable`、`Container`、`Schedule`、`Mesh`、`Gateway`等;
 
