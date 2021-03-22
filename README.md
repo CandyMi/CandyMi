@@ -1,6 +1,6 @@
 ## 自我介绍
 
-  昵称: 車先生、水果糖 🇨🇳 - Talk is cheap, Show me your code.
+  昵称: 車先生、水果糖 - Talk is cheap, Show me your code. 🇨🇳
 
   学校：[UESTC](https://www.uestc.edu.cn/) - (Computer Science and Technology) 🏫
 
