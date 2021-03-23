@@ -40,6 +40,8 @@
 
   * [lua-mongo](https://github.com/CandyMi/mongo)实现了`MongoDB`的驱动协议与`BSON`编码与解码;
 
+  * [lua-ini](https://github.com/CandyMi/lua-ini)可用于解析常见的`ini`配置文件;
+
   * [lua-aoi](https://github.com/CandyMi/aoi-c)使用`C`语言编写十字链表`Aoi`(Area Of Interest)实现与并提供`Lua API`导出;
 
   * [skynet-crypt](https://github.com/CandyMi/skynet-lua-crypt)对`skynet`框架的`crypt`扩展算法实现;
