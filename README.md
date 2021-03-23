@@ -24,7 +24,7 @@
 
 ## 社区回馈
 
-  * 服务端高性能网络框架[cfadmin](https://cfadmin.cn/)的作者, 作者本人基于此框架研发的公司项目已盈利并在生产环境稳定运行1年以上;
+  * 服务端高性能网络框架[cfadmin](https://cfadmin.cn/)的作者, 本人基于此框架研发的公司项目已盈利并在生产环境稳定运行1年以上;
 
   * [lua-MySQL](https://github.com/CandyMi/cfadmin/blob/master/lualib/protocol/mysql.lua)、[lua-MSSQL](https://github.com/CandyMi/cfadmin/blob/master/lualib/protocol/mssql.lua)、[lua-PGSQL](https://github.com/CandyMi/cfadmin/blob/master/lualib/protocol/pgsql.lua)等数据库驱动协议的实现;
 
