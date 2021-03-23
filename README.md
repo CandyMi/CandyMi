@@ -24,15 +24,15 @@
 
 ## 社区回馈
 
-  * 服务端高性能网络框架[cfadmin](https://cfadmin.cn/)的作者, 本人基于此框架研发的公司项目已盈利并在生产环境稳定运行1年以上;
+  * 服务端高性能网络框架[cfadmin](https://cfadmin.cn/)的作者, 本人基于此框架为公司研发的项目已在生产环境稳定运行1年以上并且持续盈利;
 
   * [lua-MySQL](https://github.com/CandyMi/cfadmin/blob/master/lualib/protocol/mysql.lua)、[lua-MSSQL](https://github.com/CandyMi/cfadmin/blob/master/lualib/protocol/mssql.lua)、[lua-PGSQL](https://github.com/CandyMi/cfadmin/blob/master/lualib/protocol/pgsql.lua)等数据库驱动协议的实现;
 
   * [lua-Websocket](https://github.com/CandyMi/cfadmin/blob/master/lualib/protocol/websocket/protocol.lua)基于[RFC-6455](https://datatracker.ietf.org/doc/rfc6455/?include_text=1)与[RFC-7692](https://datatracker.ietf.org/doc/rfc7692/?include_text=1)的完整实现, 可做为服务端基础TCP服务组件;
 
-  * [lua-iconv](https://github.com/CandyMi/lua-iconv)用更简单的方式帮助开发者在不同编码之间转换;
+  * [lua-iconv](https://github.com/CandyMi/lua-iconv)可以提供更简单的`API`来转换不同编码;
 
-  * [lua-xml](https://github.com/CandyMi/lua-xml)基于`libxml2`实现的`xml`编码/解码API导出到`lua`, 性能高出其它`pure lua`实现几十倍;
+  * [lua-xml](https://github.com/CandyMi/lua-xml)基于`libxml2`实现的`xml`编码/解码API导出到`lua`, 性能高出`pure lua`实现几十倍;
 
   * [lua-br](https://github.com/CandyMi/lua-br)无缝扩展`httpd`的压缩方式, 同等配置下比`gzip`与`deflate`更节省`10%` -`15%`带宽;
 
