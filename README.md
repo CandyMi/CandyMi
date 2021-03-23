@@ -44,7 +44,7 @@
 
   * [skynet-crypt](https://github.com/CandyMi/skynet-lua-crypt)对`skynet`框架的`crypt`扩展算法实现;
 
-  * [skynet-websocket](https://github.com/CandyMi/skynet-lua-websocket)对`skynet`框架的`websocket`协议第3方实现;
+  * [skynet-websocket](https://github.com/CandyMi/skynet-lua-websocket)对`skynet`框架的`websocket`协议实现;
 
 ## 了解更多？
 
