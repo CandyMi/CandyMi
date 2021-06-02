@@ -34,9 +34,9 @@
 
   * [lua-iconv](https://github.com/CandyMi/lua-iconv)可以提供更简单的`API`来转换不同编码;
 
-  * [lua-kcp](https://github.com/CandyMi/lua-kcp)基于`cfadmin`对[KCP](https://github.com/skywind3000/kcp)的`Lua C API`封装。
+  * [lua-kcp](https://github.com/CandyMi/lua-kcp)是基于`cfadmin`对[KCP](https://github.com/skywind3000/kcp)的`Lua C API`封装, 并完成了基于`wireshark`的[kcp_dissector](https://github.com/CandyMi/kcp_dissector)用于抓包测试.
 
-  * [lua-xml](https://github.com/CandyMi/lua-xml)基于`libxml2`实现的`xml`编码/解码API导出到`lua`, 性能高出`pure lua`实现几十倍;
+  * [lua-xml](https://github.com/CandyMi/lua-xml)是基于`libxml2`实现的`xml`编码/解码API导出到`lua`, 性能高出`pure lua`实现几十倍;
 
   * [lua-br](https://github.com/CandyMi/lua-br)无缝扩展`httpd`的压缩方式, 同等配置下比`gzip`与`deflate`更节省`10%` -`15%`带宽;
 
