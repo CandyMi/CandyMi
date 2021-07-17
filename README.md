@@ -44,6 +44,8 @@
 
   * [lua-mongo](https://github.com/CandyMi/mongo)实现了`MongoDB`的驱动协议与`BSON`编码与解码;
 
+  * [lua-nsq](https://github.com/CandyMi)实现了`NSQ`的唯一`lua`版本的驱动;
+
   * [lua-ini](https://github.com/CandyMi/lua-ini)可用于解析常见的`ini`配置文件;
 
   * [lua-aoi](https://github.com/CandyMi/aoi-c)使用`C`语言编写十字链表`Aoi`(Area Of Interest)实现与并提供`Lua API`导出;
