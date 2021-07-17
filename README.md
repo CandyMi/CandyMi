@@ -44,7 +44,7 @@
 
   * [lua-mongo](https://github.com/CandyMi/mongo)实现了`MongoDB`的驱动协议与`BSON`编码与解码;
 
-  * [lua-nsq](https://github.com/CandyMi)实现了`NSQ`的唯一`lua`版本的驱动;
+  * [lua-nsq](https://github.com/CandyMi/lua-nsq)实现了`NSQ`的唯一`lua`版本的驱动;
 
   * [lua-ini](https://github.com/CandyMi/lua-ini)可用于解析常见的`ini`配置文件;
 
