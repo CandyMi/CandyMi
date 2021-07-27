@@ -26,7 +26,7 @@
 
   * 服务端高性能网络框架[cfadmin](https://cfadmin.cn/)的作者, 本人基于此框架为公司研发的项目已在生产环境稳定运行1年以上并且持续盈利;
 
-  * [lua-Websocket](https://github.com/CandyMi/cfadmin/blob/master/lualib/protocol/websocket/protocol.lua)基于[RFC-6455](https://datatracker.ietf.org/doc/rfc6455/?include_text=1)与[RFC-7692](https://datatracker.ietf.org/doc/rfc7692/?include_text=1)标准的实现; 不仅可做为基础长连接服务组件, 也是生态内性能与完整度最高的库;
+  * [lua-Websocket](https://github.com/CandyMi/cfadmin/blob/master/lualib/protocol/websocket/protocol.lua)参照[RFC-6455](https://datatracker.ietf.org/doc/rfc6455/?include_text=1)与[RFC-7692](https://datatracker.ietf.org/doc/rfc7692/?include_text=1)文档标准, 无论是兼容性还是完善度都最高的实现;
 
   * [lua-MySQL](https://github.com/CandyMi/cfadmin/blob/master/lualib/protocol/mysql.lua)、[lua-MSSQL](https://github.com/CandyMi/cfadmin/blob/master/lualib/protocol/mssql.lua)、[lua-PGSQL](https://github.com/CandyMi/cfadmin/blob/master/lualib/protocol/pgsql.lua)等数据库驱动协议的实现;
 
