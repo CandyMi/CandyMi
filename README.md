@@ -24,7 +24,7 @@
 
 ## 社区回馈
 
-  * [cfadmin](https://cfadmin.cn/) - 高性能服务端网络框架的作者, 基于此框架研发的多个项目均已盈利并稳定运行`1`-`2`年;
+  * [cfadmin](https://cfadmin.cn/) - 高性能服务端网络框架的作者, 基于此框架研发的多个项目均已盈利并稳定运行`2`年以上;
 
   * [lua-Websocket](https://github.com/CandyMi/cfadmin/blob/master/lualib/protocol/websocket/protocol.lua)库参照[RFC-6455](https://datatracker.ietf.org/doc/rfc6455/?include_text=1)与[RFC-7692](https://datatracker.ietf.org/doc/rfc7692/?include_text=1)文档标准, 无论是兼容性、完善性、可读性都是生态内部最好的;
 
