@@ -26,6 +26,8 @@
 
   * [cfadmin](https://cfadmin.cn/) - 高性能服务端网络框架的作者, 从`2019`年开始基于此框架研发的多个项目均已盈利并至今稳定运行;
 
+  * [Libev](http://libev.cn/) - 为高性能事件驱动库创建了中文站点, 上面有供大家阅读的中文翻译手册;
+
   * [lua-Websocket](https://github.com/CandyMi/cfadmin/blob/master/lualib/protocol/websocket/protocol.lua)库参照[RFC-6455](https://datatracker.ietf.org/doc/rfc6455/?include_text=1)与[RFC-7692](https://datatracker.ietf.org/doc/rfc7692/?include_text=1)文档标准, 无论是兼容性、完善性、可读性都是生态内部最好的;
 
   * [lua-MySQL](https://github.com/CandyMi/cfadmin/blob/master/lualib/protocol/mysql.lua)、[lua-MSSQL](https://github.com/CandyMi/cfadmin/blob/master/lualib/protocol/mssql.lua)、[lua-PGSQL](https://github.com/CandyMi/cfadmin/blob/master/lualib/protocol/pgsql.lua)等数据库驱动协议的实现;
