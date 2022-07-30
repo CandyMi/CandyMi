@@ -35,6 +35,8 @@
   * [lua-redis](https://github.com/CandyMi/cfadmin/blob/master/lualib/MQ/redis.lua)、[lua-stomp](https://github.com/CandyMi/cfadmin/blob/master/lualib/MQ/stomp.lua)等消息队列协议实现;
 
   * [lua-iconv](https://github.com/CandyMi/lua-iconv)可以提供更简单的`API`来转换不同编码;
+  
+  * [lua-re](https://github.com/CandyMi/lua-re) 是一个posix regex库, 可以选择链接pcre/pcre2扩展与提升性能;
 
   * [lua-kcp](https://github.com/CandyMi/lua-kcp)是基于`cfadmin`对[KCP](https://github.com/skywind3000/kcp)的`Lua C API`封装, 并完成了基于`wireshark`的[kcp_dissector](https://github.com/CandyMi/kcp_dissector)用于抓包测试.
 
