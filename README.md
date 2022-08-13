@@ -38,6 +38,8 @@
   
   * [lua-re](https://github.com/CandyMi/lua-re) 是一个posix regex库, 可以选择链接pcre/pcre2扩展与提升性能;
 
+  * [lua-msgpack](https://github.com/CandyMi/lua-msgpack) 用C语言实现的高性能Lua msgpack库;
+
   * [lua-kcp](https://github.com/CandyMi/lua-kcp)是基于`cfadmin`对[KCP](https://github.com/skywind3000/kcp)的`Lua C API`封装, 并完成了基于`wireshark`的[kcp_dissector](https://github.com/CandyMi/kcp_dissector)用于抓包测试.
 
   * [lua-xml](https://github.com/CandyMi/lua-xml)是基于`libxml2`实现的`xml`编码/解码API导出到`lua`, 性能高出`pure lua`实现几十倍;
