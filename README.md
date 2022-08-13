@@ -36,9 +36,9 @@
 
   * [lua-iconv](https://github.com/CandyMi/lua-iconv)可以提供更简单的`API`来转换不同编码;
   
-  * [lua-re](https://github.com/CandyMi/lua-re) 是一个posix regex库, 可以选择链接pcre/pcre2扩展与提升性能;
+  * [lua-re](https://github.com/CandyMi/lua-re) 是基于`posix`的`regex`是先的`re`库, 可以选择链接`pcre`/`pcre2`扩展语法与提升性能;
 
-  * [lua-msgpack](https://github.com/CandyMi/lua-msgpack) 用C语言实现的高性能Lua msgpack库;
+  * [lua-msgpack](https://github.com/CandyMi/lua-msgpack) 用`C`语言编写的高性能`Lua-msgpack`库;
 
   * [lua-kcp](https://github.com/CandyMi/lua-kcp)是基于`cfadmin`对[KCP](https://github.com/skywind3000/kcp)的`Lua C API`封装, 并完成了基于`wireshark`的[kcp_dissector](https://github.com/CandyMi/kcp_dissector)用于抓包测试.
 
