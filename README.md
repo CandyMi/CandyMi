@@ -28,9 +28,7 @@
 
   * [Libev](http://libev.cn/) - 为高性能事件驱动库创建了中文站点, 上面有供大家阅读的中文翻译手册;
 
-  * [lua-Websocket](https://github.com/CandyMi/cfadmin/blob/master/lualib/protocol/websocket/protocol.lua)库参照[RFC-6455](https://datatracker.ietf.org/doc/rfc6455/?include_text=1)与[RFC-7692](https://datatracker.ietf.org/doc/rfc7692/?include_text=1)文档标准, 无论是兼容性、完善性、可读性都是生态内部最好的;
-
-  * [TinyCrypto](https://github.com/CandyMi/tc) 一个易嵌入到任何项目且适用`C`/`C++`的加密、解密库.
+  * [TinyCrypto](https://github.com/CandyMi/tc) 一个适用`C`/`C++`且易嵌入到任何项目内的加密、解密库.
 
   * [lua-iconv](https://github.com/CandyMi/lua-iconv)可以提供更简单的`API`来转换不同编码;
   
