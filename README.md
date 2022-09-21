@@ -34,7 +34,9 @@
   
   * [lua-re](https://github.com/CandyMi/lua-re) 是基于`posix`的`regex`实现的`re`库, 可以选择链接`pcre`/`pcre2`扩展语法与提升性能;
 
-  * [lua-msgpack](https://github.com/CandyMi/lua-msgpack) 用`Lua C API`编写的高性能`msgpack`库;
+  * [lua-json](https://github.com/CandyMi/cjson) 用`Lua C API`编写的`json`库, 支持`int64`类型且只支持`Lua 5.3`+;
+
+  * [lua-msgpack](https://github.com/CandyMi/lua-msgpack) 完全重写的多特性`msgpack`库, 并提供多种宏开关的行为调整;
 
   * [lua-kcp](https://github.com/CandyMi/lua-kcp)是基于`cfadmin`对[KCP](https://github.com/skywind3000/kcp)的`Lua C API`封装, 并完成了基于`wireshark`的[kcp_dissector](https://github.com/CandyMi/kcp_dissector)用于抓包测试.
 
