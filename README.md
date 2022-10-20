@@ -31,7 +31,9 @@
   * [TinyCrypto](https://github.com/CandyMi/tc) 一个适用`C`/`C++`且易嵌入到任何项目内的加密、解密库.
 
   * [lua-iconv](https://github.com/CandyMi/lua-iconv)可以提供更简单的`API`来转换不同编码;
-  
+
+  * [lua-uuid](https://gist.github.com/CandyMi/facfaaa6826038086b1ccb5f39c32cd9) 可被`Lua`使用的`UUID`多个版本实现.
+
   * [lua-re](https://github.com/CandyMi/lua-re) 是基于`posix`的`regex`实现的`re`库, 可以选择链接`pcre`/`pcre2`扩展语法与提升性能;
 
   * [lua-json](https://github.com/CandyMi/cjson) 用`Lua C API`编写的`json`库, 支持`int64`类型且只支持`Lua 5.3`+;
