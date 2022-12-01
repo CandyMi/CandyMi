@@ -58,7 +58,7 @@
 
   * [lua-transfer](https://gist.github.com/CandyMi/fb4784b63fcb89cd84adbce0e4afd5b9)`lua`的`table`版拼音与中文互译;
 
-  * [lua-queue](https://gist.github.com/CandyMi/411bdfd798998eaa675bc84b0fee9d45)使用`C`语言实现的`Lua`版`O(1)`复杂度的`FIFO`队列;
+  * [lua-utils](https://github.com/cfadmin-cn/utils)对内置库的扩展方法, 提供更多的使用特性;
 
   * [skynet-crypt](https://github.com/CandyMi/skynet-lua-crypt)对`skynet`框架的`crypt`扩展算法实现;
 
