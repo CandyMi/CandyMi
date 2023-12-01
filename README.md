@@ -28,6 +28,8 @@
 
   * [Libev](http://libev.cn/) - 为高性能事件驱动库创建了中文站点, 上面有供大家阅读的中文翻译手册;
 
+  * [Lua-CMake](https://gist.github.com/CandyMi/37e3069973730cd9a5a0e990658a8074) 为方便构建并使用`Lua`编写的构建配置文件, 包含完善的注释、简单的流程、详细的使用说明.
+
   * [TinyCrypto](https://github.com/CandyMi/tc) 一个适用`C`/`C++`且易嵌入到任何项目内的加密、解密库.
 
   * [lua-iconv](https://github.com/CandyMi/lua-iconv)可以提供更简单的`API`来转换不同编码;
