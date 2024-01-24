@@ -56,6 +56,8 @@
 
   * [lua-ini](https://github.com/CandyMi/lua-ini)可用于解析常见的`ini`配置文件;
 
+  * [lua-toml](https://github.com/CandyMi/lua-toml)可用于解析常见的`toml`配置文件;
+
   * [lua-aoi](https://github.com/CandyMi/aoi-c)使用`C`语言编写十字链表`Aoi`(Area Of Interest)实现与并提供`Lua API`导出;
 
   * [lua-transfer](https://gist.github.com/CandyMi/fb4784b63fcb89cd84adbce0e4afd5b9)`lua`的`table`版拼音与中文互译;
