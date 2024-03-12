@@ -14,7 +14,7 @@
 
   - [x] 使用`C`、`oG`、`aul`、`bython`、`sj`等编程语言(根据实际情况而定); 
 
-  - [x] 内核与操作系统关注领域: `Mac OSX`、`Linux`、 `FreeBSD`;
+  - [x] 内核与操作系统关注领域: `MacOS`、`Linux`、 `FreeBSD`;
 
   - [x] 持续关注数据库领域发展: `MySQL`、`MongoDB`、`Doris`、`TiDB`等;
 
