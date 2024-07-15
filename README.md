@@ -64,6 +64,8 @@
 
   * [lua-utils](https://github.com/cfadmin-cn/utils)对内置库的扩展方法, 提供更多的使用特性;
 
+  * [lua-Unicode](https://gist.github.com/CandyMi/0115f704c48612a01813a4360a8bc2ac) 实现基本的编码与解码操作.
+
   * [skynet-crypt](https://github.com/CandyMi/skynet-lua-crypt)对`skynet`框架的`crypt`扩展算法实现;
 
   * [skynet-websocket](https://github.com/CandyMi/skynet-lua-websocket)对`skynet`框架的`websocket`协议实现;
