@@ -31,6 +31,8 @@
   * [TinyCrypto](https://github.com/CandyMi/tc) 一个适用`C`/`C++`且易嵌入到任何项目内的加密、解密库.
 
   * [XDns](https://github.com/CandyMi/dns.cc) 轻量级DNS解析客户端库, 方便、可移植、使用简单.
+  
+  * [lua-vardump](https://gist.github.com/CandyMi/acc2e96339af9e9c7ea23c098ae232b3) 用于调试期间美化输出`table`.
 
   * [lua-cmake](https://gist.github.com/CandyMi/37e3069973730cd9a5a0e990658a8074) 为方便构建并使用`Lua`编写的构建配置文件, 包含完善的注释、简单的流程、详细的使用说明.
 
