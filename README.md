@@ -88,5 +88,7 @@
 <p align="center">
   <b>来访次数: </b>
   <br><br>
-  <img src="https://profile-counter.glitch.me/CandyMi/count.svg"/>
+  <img src="https://access-counter-mu.vercel.app/api/counter?name=candymi&length=4" />
+  
 </p>
+
