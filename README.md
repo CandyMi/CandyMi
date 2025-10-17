@@ -34,7 +34,7 @@
   
   * [lua-vardump](https://gist.github.com/CandyMi/acc2e96339af9e9c7ea23c098ae232b3) 用于调试期间美化输出`table`.
 
-  * [lua-cmake](https://gist.github.com/CandyMi/37e3069973730cd9a5a0e990658a8074) 为方便构建并使用`Lua`编写的构建配置文件, 包含完善的注释、简单的流程、详细的使用说明.
+  * [lua-cmake](https://github.com/CandyMi/lua-cmake) 为方便构建并使用`Lua`编写的构建配置文件, 包含完善的注释、简单的流程、详细的使用说明.
 
   * [lua-iconv](https://github.com/CandyMi/lua-iconv)可以提供更简单的`API`来转换不同编码;
 
@@ -91,4 +91,5 @@
   <img src="https://access-counter-mu.vercel.app/api/counter?name=candymi&length=4" />
   
 </p>
+
 
